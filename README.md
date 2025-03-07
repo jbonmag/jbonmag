@@ -17,8 +17,10 @@ Soy un estudiante de **42Barcelona** con un gran interés en **Machine Learning*
   - 📂 [Discovery](https://github.com/jbonmag/42/tree/main/Discovery)
   - 📂 [Cursus](https://github.com/jbonmag/42/tree/main/Cursus)
     - 📂 [Piscine Reloaded](https://github.com/jbonmag/42/tree/main/Cursus/Piscine%20Reloaded)
+    - 📂 Born2beroot
     - 📂 [ft_printf](https://github.com/jbonmag/42/tree/main/Cursus/ft_printf)
     - 📂 [libft](https://github.com/jbonmag/42/tree/main/Cursus/libft)
+    - 📂 [Get Next Line](https://github.com/jbonmag/42/tree/main/Cursus/Get%20Next%20Line)
 
 ### Otros Repositorios
 - 📂 Machine Learning
