@@ -27,7 +27,7 @@ I'm a **42Barcelona** student with a keen interest in **Machine Learning**. I'm 
   - 📂 [Titanic-ML](https://github.com/jbonmag/Titanic-ML)
   - 📂 [Housing-ML](https://github.com/jbonmag/Housing-ML)
   - 📂 [PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks)
-  - 📂 [Amazon-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark))
+  - 📂 [Amazon-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark)
 
 
 ---
