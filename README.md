@@ -1,14 +1,14 @@
-# Bienvenido a mi GitHub
+# Welcome to my GitHub
 
 <div style="position: relative; text-align: center;">
     <!-- Imagen de fondo -->
     <img src="https://github.com/user-attachments/assets/3b53d199-b598-4002-8982-9b32c0f249f1" alt="Background" width="100%">
 </div>
 
-## Sobre mí
-Soy un estudiante de **42Barcelona** con un gran interés en **Machine Learning** y en la **Seguridad Informática**. Me apasionan la resolución de problemas complejos y el aprendizaje continuo en tecnología y desarrollo de software.
+## About me
+I'm a **42Barcelona** student with a keen interest in **Machine Learning**. I'm passionate about solving complex problems and continuing to learn about technology and software development.
 
-## 🚀 Habilidades
+## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,c,py,anaconda,tensorflow,kali)](https://skillicons.dev)
 
 ### 42Barcelona
@@ -22,15 +22,18 @@ Soy un estudiante de **42Barcelona** con un gran interés en **Machine Learning*
     - 📂 [libft](https://github.com/jbonmag/42/tree/main/Cursus/libft)
     - 📂 [Get Next Line](https://github.com/jbonmag/42/tree/main/Cursus/Get%20Next%20Line)
 
-### Otros Repositorios
+### Other Repositories
 - 📂 Machine Learning
   - 📂 [Titanic-ML](https://github.com/jbonmag/Titanic-ML)
   - 📂 [Housing-ML](https://github.com/jbonmag/Housing-ML)
+  - 📂 [PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks)
+  - 📂 [Amazon-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark))
+
 
 ---
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div>
-        <h3><b>¡Gracias por visitar mi perfil! 🚀</b></h3>
+        <h3><b>Thanks for visiting my profile! 🚀</b></h3>
     </div>
     <img src="https://hits.sh/github.com/jbonmag.svg?style=flat-square&label=Visitas&color=red" />
 </div>
