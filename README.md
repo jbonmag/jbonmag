@@ -9,7 +9,7 @@
 I'm a **42Barcelona** student with a keen interest in **Machine Learning**. I'm passionate about solving complex problems and continuing to learn about technology and software development.
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,py,anaconda,tensorflow,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,py,anaconda,css,html,gcp,aws,sklearn,tensorflow,debian,vim,kali)](https://skillicons.dev)
 
 ### 42Barcelona
 - 📂 [42](https://github.com/jbonmag/42)
