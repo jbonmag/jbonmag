@@ -15,7 +15,7 @@ I am a 42Barcelona student focused on software development, machine learning, da
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="NumPy" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" alt="SciPy" width="48" height="48">
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" width="48" height="48">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="Seaborn" width="48" height="48">
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" alt="Plotly" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="48" height="48">
