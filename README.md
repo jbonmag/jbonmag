@@ -11,24 +11,59 @@ I am a 42Barcelona student focused on software development, machine learning, da
 ## Skills
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,bash,powershell,linux,git,github,docker,aws,gcp,sklearn,tensorflow,fastapi,anaconda,debian,vim,kali,mysql,postgres,sqlite,postman,md,blender,unreal" alt="Core skills">
-  </a>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="NumPy" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" alt="SciPy" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" alt="Matplotlib" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="Seaborn" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" alt="Plotly" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic" alt="Pydantic" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" alt="MLflow" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" alt="PySpark" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" alt="Qdrant" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=n8n" alt="n8n" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=unstructured" alt="Unstructured" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" alt="MariaDB" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualbasic" alt="Visual Basic" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48">
+  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="48" height="48">
 </p>
 
 ### Additional stack
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Unstructured.io](https://img.shields.io/badge/Unstructured.io-111827?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
 ## 42Barcelona
