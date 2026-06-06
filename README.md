@@ -10,39 +10,26 @@ I am a 42Barcelona student focused on software development, machine learning, da
 
 ## Skills
 
-[![Core Skills](https://skillicons.dev/icons?i=py,c,js,html,css,bash,linux,git,github,docker,aws,gcp,sklearn,tensorflow,fastapi,anaconda,debian,vim,kali)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,bash,powershell,linux,git,github,docker,aws,gcp,sklearn,tensorflow,fastapi,anaconda,debian,vim,kali,mysql,postgres,sqlite,postman,md,blender,unreal" alt="Core skills">
+  </a>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="48" height="48">
+</p>
 
-### AI, ML and data
+### Additional stack
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-111827?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-111827?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-111827?style=for-the-badge)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![Unstructured.io](https://img.shields.io/badge/Unstructured.io-111827?style=for-the-badge)
-
-### Engineering, cloud and automation
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Project%20Management-111827?style=for-the-badge)
 
 ## 42Barcelona
 
