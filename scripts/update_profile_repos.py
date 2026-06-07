@@ -14,9 +14,11 @@ OWNER = "jbonmag"
 README = Path("README.md")
 START = "<!-- REPOS:START -->"
 END = "<!-- REPOS:END -->"
+LATEST_START = "<!-- LATEST:START -->"
+LATEST_END = "<!-- LATEST:END -->"
 EXCLUDED_REPOS = set()
 DESCRIPTION_OVERRIDES = {
-    "42": "42Barcelona projects and exercises.",
+    "42": "42Barcelona systems, C and algorithms projects.",
     "Amazon-Product-Reviews-Classifier-with-PySpark": "Sentiment classifier for Amazon product reviews using PySpark MLlib.",
     "Esquema-ML-PySpark-Databricks": "Reference PySpark ML pipeline for Databricks.",
     "Housing-ML": "Housing price prediction project for the Ames dataset.",
@@ -95,14 +97,40 @@ def repo_table(repos: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def update_readme(table: str) -> bool:
-    content = README.read_text(encoding="utf-8")
-    if START not in content or END not in content:
-        raise SystemExit("Repository markers were not found in README.md")
+def latest_work(repos: list[dict], limit: int = 5) -> str:
+    visible = [
+        repo
+        for repo in repos
+        if not repo.get("archived")
+        and repo.get("name") not in EXCLUDED_REPOS
+        and repo.get("name") != OWNER
+    ]
 
-    before, rest = content.split(START, 1)
-    _, after = rest.split(END, 1)
-    updated = f"{before}{START}\n{table}\n{END}{after}"
+    visible.sort(key=lambda repo: repo.get("pushed_at") or "", reverse=True)
+
+    lines = []
+    for repo in visible[:limit]:
+        name = repo["name"]
+        url = repo["html_url"]
+        description = clean_description(repo).replace("\n", " ")
+        lines.append(f"- [{name}]({url}) — {description}")
+
+    return "\n".join(lines)
+
+
+def replace_block(content: str, start: str, end: str, replacement: str) -> str:
+    if start not in content or end not in content:
+        raise SystemExit(f"Markers were not found: {start} / {end}")
+
+    before, rest = content.split(start, 1)
+    _, after = rest.split(end, 1)
+    return f"{before}{start}\n{replacement}\n{end}{after}"
+
+
+def update_readme(table: str, latest: str) -> bool:
+    content = README.read_text(encoding="utf-8")
+    updated = replace_block(content, START, END, table)
+    updated = replace_block(updated, LATEST_START, LATEST_END, latest)
 
     if updated == content:
         return False
@@ -112,8 +140,10 @@ def update_readme(table: str) -> bool:
 
 
 def main() -> int:
-    table = repo_table(fetch_public_repos())
-    changed = update_readme(table)
+    repos = fetch_public_repos()
+    table = repo_table(repos)
+    latest = latest_work(repos)
+    changed = update_readme(table, latest)
     print("README.md updated" if changed else "README.md already up to date")
     return 0
 
