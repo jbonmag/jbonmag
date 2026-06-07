@@ -137,11 +137,11 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 ## Latest work
 
 <!-- LATEST:START -->
-- [Titanic-ML](https://github.com/jbonmag/Titanic-ML) - Titanic survival prediction project.
 - [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) - Local RAG project using PostgreSQL and pgvector.
-- [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Basic conversational language model fine-tuning project.
+- [Housing-ML](https://github.com/jbonmag/Housing-ML) - Housing price prediction project for the Ames dataset.
 - [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) - Reference PySpark ML pipeline for Databricks.
 - [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) - Sentiment classifier for Amazon product reviews using PySpark MLlib.
+- [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Basic conversational language model fine-tuning project.
 <!-- LATEST:END -->
 
 ## Certifications
@@ -159,12 +159,12 @@ This section is updated automatically from my public GitHub repositories.
 <!-- REPOS:START -->
 | Repository | Description | Main language |
 | --- | --- | --- |
-| [Titanic-ML](https://github.com/jbonmag/Titanic-ML) | Titanic survival prediction project. | Jupyter Notebook |
 | [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local RAG project using PostgreSQL and pgvector. | Python |
-| [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) | Basic conversational language model fine-tuning project. | Jupyter Notebook |
+| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Housing price prediction project for the Ames dataset. | Jupyter Notebook |
 | [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) | Reference PySpark ML pipeline for Databricks. | Jupyter Notebook |
 | [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) | Sentiment classifier for Amazon product reviews using PySpark MLlib. | Jupyter Notebook |
-| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Housing price prediction project for the Ames dataset. | Jupyter Notebook |
+| [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) | Basic conversational language model fine-tuning project. | Jupyter Notebook |
+| [Titanic-ML](https://github.com/jbonmag/Titanic-ML) | Titanic survival prediction project. | Jupyter Notebook |
 | [42](https://github.com/jbonmag/42) | 42Barcelona systems, C and algorithms projects. | C |
 | [YuE](https://github.com/jbonmag/YuE) | YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open | Not specified |
 | [darknet](https://github.com/jbonmag/darknet) | YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet ) | Not specified |
