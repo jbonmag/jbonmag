@@ -113,7 +113,7 @@ def latest_work(repos: list[dict], limit: int = 5) -> str:
         name = repo["name"]
         url = repo["html_url"]
         description = clean_description(repo).replace("\n", " ")
-        lines.append(f"- [{name}]({url}) — {description}")
+        lines.append(f"- [{name}]({url}) - {description}")
 
     return "\n".join(lines)
 
