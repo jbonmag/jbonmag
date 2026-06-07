@@ -97,6 +97,12 @@ This section is updated automatically from my public GitHub repositories.
 | [Machine-Learning](https://github.com/jbonmag/Machine-Learning) | Samples demonstrating how to use Scikit-learn to build machine-learning models | Not specified |
 <!-- REPOS:END -->
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbonmag&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%">
+</p>
+
 ## GitHub stats
 
 <p align="center">
