@@ -141,9 +141,9 @@ All of them are in the [42 repository](https://github.com/jbonmag/42); push_swap
 
 <!-- LATEST:START -->
 - [42](https://github.com/jbonmag/42) - My 42 Barcelona projects: libft, ft_printf, Get Next Line, the C piscine and the cybersecurity Discovery piscine
+- [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) - Local-first RAG with FastAPI, PostgreSQL and pgvector: hybrid search, citations and local models
 - [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) - Reference PySpark MLlib churn pipeline for Databricks, trained on IBM's Telco Customer Churn data
 - [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) - Sentiment classifier for Amazon reviews with PySpark MLlib: negation-aware TF-IDF, class weighting and threshold tuning
-- [Housing-ML](https://github.com/jbonmag/Housing-ML) - Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison
 - [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Fine-tuning distilgpt2 on DailyDialog: conversational format, before/after perplexity and examples
 <!-- LATEST:END -->
 
@@ -155,13 +155,13 @@ This section is updated automatically from my public GitHub repositories.
 | Repository | Description | Main language |
 | --- | --- | --- |
 | [42](https://github.com/jbonmag/42) | My 42 Barcelona projects: libft, ft_printf, Get Next Line, the C piscine and the cybersecurity Discovery piscine | C |
+| [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local-first RAG with FastAPI, PostgreSQL and pgvector: hybrid search, citations and local models | Python |
 | [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) | Reference PySpark MLlib churn pipeline for Databricks, trained on IBM's Telco Customer Churn data | Jupyter Notebook |
 | [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) | Sentiment classifier for Amazon reviews with PySpark MLlib: negation-aware TF-IDF, class weighting and threshold tuning | Jupyter Notebook |
-| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison | Jupyter Notebook |
 | [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) | Fine-tuning distilgpt2 on DailyDialog: conversational format, before/after perplexity and examples | Jupyter Notebook |
+| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison | Jupyter Notebook |
 | [Titanic-ML](https://github.com/jbonmag/Titanic-ML) | Titanic survival prediction: feature engineering and cross-validated model comparison | Jupyter Notebook |
 | [push_swap-annealing](https://github.com/jbonmag/push_swap-annealing) | 42 push_swap solved by simulated annealing: 400 / 3275 operations on average (n=100 / 500) in about a second, down to 382 / 3119 with longer searches. Full write-up in English and Spanish, plus the lab notebook. | C |
-| [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local-first RAG with FastAPI, PostgreSQL and pgvector: hybrid search, citations and local models | Python |
 <!-- REPOS:END -->
 
 ## Activity
