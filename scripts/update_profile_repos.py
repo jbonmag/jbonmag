@@ -17,15 +17,6 @@ END = "<!-- REPOS:END -->"
 LATEST_START = "<!-- LATEST:START -->"
 LATEST_END = "<!-- LATEST:END -->"
 EXCLUDED_REPOS = set()
-DESCRIPTION_OVERRIDES = {
-    "42": "42Barcelona systems, C and algorithms projects.",
-    "Amazon-Product-Reviews-Classifier-with-PySpark": "Sentiment classifier for Amazon product reviews using PySpark MLlib.",
-    "Esquema-ML-PySpark-Databricks": "Reference PySpark ML pipeline for Databricks.",
-    "Housing-ML": "Housing price prediction project for the Ames dataset.",
-    "LM_Conversacional_Basico": "Basic conversational language model fine-tuning project.",
-    "Titanic-ML": "Titanic survival prediction project.",
-    "local-rag-pgvector": "Local RAG project using PostgreSQL and pgvector.",
-}
 
 
 def fetch_public_repos() -> list[dict]:
@@ -63,9 +54,7 @@ def fetch_public_repos() -> list[dict]:
 
 
 def clean_description(repo: dict) -> str:
-    if repo.get("name") in DESCRIPTION_OVERRIDES:
-        return DESCRIPTION_OVERRIDES[repo["name"]]
-
+    """The repository's own GitHub description, so the profile never drifts from it."""
     description = repo.get("description") or ""
     description = " ".join(description.split())
     if description:
@@ -73,13 +62,21 @@ def clean_description(repo: dict) -> str:
     return "Public repository."
 
 
+def is_own_work(repo: dict) -> bool:
+    """Skip forks (other people's code), archived repositories and the profile repository itself."""
+    return (
+        not repo.get("fork")
+        and not repo.get("archived")
+        and repo.get("name") not in EXCLUDED_REPOS
+        and repo.get("name") != OWNER
+    )
+
+
 def repo_table(repos: list[dict]) -> str:
     visible = [
         repo
         for repo in repos
-        if not repo.get("archived")
-        and repo.get("name") not in EXCLUDED_REPOS
-        and repo.get("name") != OWNER
+        if is_own_work(repo)
     ]
 
     lines = [
@@ -101,9 +98,7 @@ def latest_work(repos: list[dict], limit: int = 5) -> str:
     visible = [
         repo
         for repo in repos
-        if not repo.get("archived")
-        and repo.get("name") not in EXCLUDED_REPOS
-        and repo.get("name") != OWNER
+        if is_own_work(repo)
     ]
 
     visible.sort(key=lambda repo: repo.get("pushed_at") or "", reverse=True)

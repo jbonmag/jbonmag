@@ -109,11 +109,11 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 ## Featured projects
 
 <p align="center">
+  <a href="https://github.com/jbonmag/push_swap-annealing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=push_swap-annealing&theme=github_dark&hide_border=true" alt="push_swap-annealing">
+  </a>
   <a href="https://github.com/jbonmag/local-rag-pgvector">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=local-rag-pgvector&theme=github_dark&hide_border=true" alt="local-rag-pgvector">
-  </a>
-  <a href="https://github.com/jbonmag/LM_Conversacional_Basico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=LM_Conversacional_Basico&theme=github_dark&hide_border=true" alt="LM Conversacional Basico">
   </a>
   <a href="https://github.com/jbonmag/Housing-ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=Housing-ML&theme=github_dark&hide_border=true" alt="Housing ML">
@@ -127,21 +127,21 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 
 - [42 repository](https://github.com/jbonmag/42)
 - [Piscine 42](https://github.com/jbonmag/42/tree/main/Piscine%2042)
-- [Discovery](https://github.com/jbonmag/42/tree/main/Discovery)
 - [Cursus](https://github.com/jbonmag/42/tree/main/Cursus)
 - [Piscine Reloaded](https://github.com/jbonmag/42/tree/main/Cursus/Piscine%20Reloaded)
 - [libft](https://github.com/jbonmag/42/tree/main/Cursus/libft)
 - [ft_printf](https://github.com/jbonmag/42/tree/main/Cursus/ft_printf)
 - [Get Next Line](https://github.com/jbonmag/42/tree/main/Cursus/Get%20Next%20Line)
+- [Discovery: cybersecurity piscine](https://github.com/jbonmag/42/tree/main/Discovery)
 
 ## Latest work
 
 <!-- LATEST:START -->
-- [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) - Local RAG project using PostgreSQL and pgvector.
-- [Housing-ML](https://github.com/jbonmag/Housing-ML) - Housing price prediction project for the Ames dataset.
-- [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) - Reference PySpark ML pipeline for Databricks.
-- [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) - Sentiment classifier for Amazon product reviews using PySpark MLlib.
-- [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Basic conversational language model fine-tuning project.
+- [42](https://github.com/jbonmag/42) - My 42 Barcelona projects: libft, ft_printf, Get Next Line, the C piscine and the cybersecurity Discovery piscine
+- [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) - Reference PySpark MLlib churn pipeline for Databricks, trained on IBM's Telco Customer Churn data
+- [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) - Sentiment classifier for Amazon reviews with PySpark MLlib: negation-aware TF-IDF, class weighting and threshold tuning
+- [Housing-ML](https://github.com/jbonmag/Housing-ML) - Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison
+- [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Fine-tuning distilgpt2 on DailyDialog: conversational format, before/after perplexity and examples
 <!-- LATEST:END -->
 
 ## Certifications
@@ -159,17 +159,14 @@ This section is updated automatically from my public GitHub repositories.
 <!-- REPOS:START -->
 | Repository | Description | Main language |
 | --- | --- | --- |
-| [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local RAG project using PostgreSQL and pgvector. | Python |
-| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Housing price prediction project for the Ames dataset. | Jupyter Notebook |
-| [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) | Reference PySpark ML pipeline for Databricks. | Jupyter Notebook |
-| [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) | Sentiment classifier for Amazon product reviews using PySpark MLlib. | Jupyter Notebook |
-| [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) | Basic conversational language model fine-tuning project. | Jupyter Notebook |
-| [Titanic-ML](https://github.com/jbonmag/Titanic-ML) | Titanic survival prediction project. | Jupyter Notebook |
-| [42](https://github.com/jbonmag/42) | 42Barcelona systems, C and algorithms projects. | C |
-| [YuE](https://github.com/jbonmag/YuE) | YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open | Not specified |
-| [darknet](https://github.com/jbonmag/darknet) | YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet ) | Not specified |
-| [kaggle-courses](https://github.com/jbonmag/kaggle-courses) | Kaggle courses and tutorials to get you started in the Data Science world. | Not specified |
-| [Machine-Learning](https://github.com/jbonmag/Machine-Learning) | Samples demonstrating how to use Scikit-learn to build machine-learning models | Not specified |
+| [42](https://github.com/jbonmag/42) | My 42 Barcelona projects: libft, ft_printf, Get Next Line, the C piscine and the cybersecurity Discovery piscine | C |
+| [Esquema-ML-PySpark-Databricks](https://github.com/jbonmag/Esquema-ML-PySpark-Databricks) | Reference PySpark MLlib churn pipeline for Databricks, trained on IBM's Telco Customer Churn data | Jupyter Notebook |
+| [Amazon-Product-Reviews-Classifier-with-PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) | Sentiment classifier for Amazon reviews with PySpark MLlib: negation-aware TF-IDF, class weighting and threshold tuning | Jupyter Notebook |
+| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison | Jupyter Notebook |
+| [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) | Fine-tuning distilgpt2 on DailyDialog: conversational format, before/after perplexity and examples | Jupyter Notebook |
+| [Titanic-ML](https://github.com/jbonmag/Titanic-ML) | Titanic survival prediction: feature engineering and cross-validated model comparison | Jupyter Notebook |
+| [push_swap-annealing](https://github.com/jbonmag/push_swap-annealing) | 42 push_swap solved by simulated annealing: 400 / 3275 operations on average (n=100 / 500) in about a second, down to 382 / 3119 with longer searches. Full write-up in English and Spanish, plus the lab notebook. | C |
+| [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local-first RAG with FastAPI, PostgreSQL and pgvector: hybrid search, citations and local models | Python |
 <!-- REPOS:END -->
 
 ## Activity
