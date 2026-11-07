@@ -26,7 +26,7 @@ Python · PySpark · SQL · XGBoost · FastAPI · Qdrant · n8n · Docker · AWS
 <details>
 <summary>Japanese profile</summary>
 
-AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ、データパイプライン、クラウド自動化、実運用を意識したソフトウェア開発に取り組んでいます。再現性のあるワークフロー、読みやすいコード、明確なドキュメントを重視しています。
+AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ、データパイプライン、クラウド自動化、実運用を意識したソフトウェア開発を中心に取り組んできました。再現性のあるワークフロー、読みやすいコード、明確なドキュメントを重視しています。
 
 </details>
 
