@@ -135,7 +135,7 @@ Full write-up in [English](https://github.com/jbonmag/push_swap-annealing#readme
 - [Piscine 42](https://github.com/jbonmag/42/tree/main/Piscine%2042) and [Piscine Reloaded](https://github.com/jbonmag/42/tree/main/Cursus/Piscine%20Reloaded).
 - [Discovery: cybersecurity piscine](https://github.com/jbonmag/42/tree/main/Discovery).
 
-Everything except push_swap lives in the [42 repository](https://github.com/jbonmag/42).
+All of them are in the [42 repository](https://github.com/jbonmag/42); push_swap is included there as a submodule of its own repository.
 
 ## Latest work
 
@@ -146,13 +146,6 @@ Everything except push_swap lives in the [42 repository](https://github.com/jbon
 - [Housing-ML](https://github.com/jbonmag/Housing-ML) - Ames house price prediction: data cleaning, feature engineering and cross-validated model comparison
 - [LM_Conversacional_Basico](https://github.com/jbonmag/LM_Conversacional_Basico) - Fine-tuning distilgpt2 on DailyDialog: conversational format, before/after perplexity and examples
 <!-- LATEST:END -->
-
-## Certifications
-
-- IBM Data Science Professional Certificate.
-- Machine Learning, Stanford University.
-- Python with Databases, University of Michigan.
-- Hacking and Cybersecurity.
 
 ## Public repositories
 
