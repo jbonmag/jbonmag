@@ -19,7 +19,7 @@ AI / ML Engineer · Data Scientist · Systems builder
 $ focus
 LLM systems · RAG · MLOps · FastAPI services · Cloud automation
 
-$ current_stack
+$ stack
 Python · PySpark · SQL · XGBoost · FastAPI · Qdrant · n8n · Docker · AWS · GCP
 ```
 
@@ -29,12 +29,6 @@ Python · PySpark · SQL · XGBoost · FastAPI · Qdrant · n8n · Docker · AWS
 AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ、データパイプライン、クラウド自動化、実運用を意識したソフトウェア開発に取り組んでいます。再現性のあるワークフロー、読みやすいコード、明確なドキュメントを重視しています。
 
 </details>
-
-## Currently building
-
-- Production-oriented AI automation systems with LLM, RAG and workflow orchestration.
-- Predictive ML services exposed through FastAPI and containerized delivery.
-- Local-first data and retrieval stacks with PostgreSQL, pgvector and Qdrant.
 
 ## Skills
 
@@ -49,15 +43,18 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
   <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="Seaborn" width="48" height="48">
   <img src="https://cdn.simpleicons.org/plotly/3F4F75" alt="Plotly" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" alt="Kaggle" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48">
   <img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" alt="Claude" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="OpenAI" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" alt="MLflow" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark" alt="PySpark" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=databricks" alt="Databricks" width="48" height="48">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" alt="Qdrant" width="48" height="48">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=unstructured" alt="Unstructured" width="48" height="48">
 </p>
 
 ### Engineering, cloud and systems
@@ -71,7 +68,9 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="GitHub Actions" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" alt="Ubuntu" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="48" height="48">
@@ -93,6 +92,7 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" alt="MariaDB" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" alt="SQLAlchemy" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="48" height="48">
@@ -150,7 +150,6 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 - Machine Learning, Stanford University.
 - Python with Databases, University of Michigan.
 - Hacking and Cybersecurity.
-- AWS Machine Learning Associate, in progress.
 
 ## Public repositories
 
