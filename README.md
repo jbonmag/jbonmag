@@ -30,6 +30,28 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 
 </details>
 
+## Featured projects
+
+### [push_swap-annealing](https://github.com/jbonmag/push_swap-annealing)
+
+My solution to 42's *push_swap*: sorting numbers with two stacks and a limited set of operations. Instead of a fixed sorting recipe, it treats the exercise as an optimization problem and searches for a short sequence of operations with simulated annealing.
+
+| average operations | 100 numbers | 500 numbers |
+|---|---|---|
+| **push_swap-annealing** (about 1 s per run) | **400** | **3,275** |
+| with longer searches (about 20 s) | 382 | 3,119 |
+| 42's limit for full marks | 700 | 5,500 |
+
+Full write-up in [English](https://github.com/jbonmag/push_swap-annealing#readme) and [Spanish](https://github.com/jbonmag/push_swap-annealing/blob/main/README.es.md), with the lab notebook of every experiment.
+
+### More projects
+
+| project | what it does | result |
+|---|---|---|
+| [local-rag-pgvector](https://github.com/jbonmag/local-rag-pgvector) | Local RAG with FastAPI, PostgreSQL and pgvector: hybrid search and cited answers | passes its evals with local embeddings |
+| [Housing-ML](https://github.com/jbonmag/Housing-ML) | Ames house prices: data cleaning, feature engineering, model comparison | RMSE of log price 0.113 |
+| [Amazon reviews with PySpark](https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark) | Sentiment classifier with PySpark MLlib | AUC 0.944 |
+
 ## Skills
 
 ### Python, data and ML
@@ -106,33 +128,14 @@ AI / ML エンジニアとして、LLM システム、RAG アーキテクチャ�
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
 
-## Featured projects
-
-<p align="center">
-  <a href="https://github.com/jbonmag/push_swap-annealing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=push_swap-annealing&theme=github_dark&hide_border=true" alt="push_swap-annealing">
-  </a>
-  <a href="https://github.com/jbonmag/local-rag-pgvector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=local-rag-pgvector&theme=github_dark&hide_border=true" alt="local-rag-pgvector">
-  </a>
-  <a href="https://github.com/jbonmag/Housing-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=Housing-ML&theme=github_dark&hide_border=true" alt="Housing ML">
-  </a>
-  <a href="https://github.com/jbonmag/Amazon-Product-Reviews-Classifier-with-PySpark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbonmag&repo=Amazon-Product-Reviews-Classifier-with-PySpark&theme=github_dark&hide_border=true" alt="Amazon Product Reviews Classifier with PySpark">
-  </a>
-</p>
-
 ## 42Barcelona
 
-- [42 repository](https://github.com/jbonmag/42)
-- [Piscine 42](https://github.com/jbonmag/42/tree/main/Piscine%2042)
-- [Cursus](https://github.com/jbonmag/42/tree/main/Cursus)
-- [Piscine Reloaded](https://github.com/jbonmag/42/tree/main/Cursus/Piscine%20Reloaded)
-- [libft](https://github.com/jbonmag/42/tree/main/Cursus/libft)
-- [ft_printf](https://github.com/jbonmag/42/tree/main/Cursus/ft_printf)
-- [Get Next Line](https://github.com/jbonmag/42/tree/main/Cursus/Get%20Next%20Line)
-- [Discovery: cybersecurity piscine](https://github.com/jbonmag/42/tree/main/Discovery)
+- **[push_swap](https://github.com/jbonmag/push_swap-annealing)**: sorting with two stacks, solved with simulated annealing; 400 / 3,275 operations on average for 100 / 500 numbers (limit 700 / 5,500).
+- [libft](https://github.com/jbonmag/42/tree/main/Cursus/libft), [ft_printf](https://github.com/jbonmag/42/tree/main/Cursus/ft_printf) and [Get Next Line](https://github.com/jbonmag/42/tree/main/Cursus/Get%20Next%20Line), the first common-core projects.
+- [Piscine 42](https://github.com/jbonmag/42/tree/main/Piscine%2042) and [Piscine Reloaded](https://github.com/jbonmag/42/tree/main/Cursus/Piscine%20Reloaded).
+- [Discovery: cybersecurity piscine](https://github.com/jbonmag/42/tree/main/Discovery).
+
+Everything except push_swap lives in the [42 repository](https://github.com/jbonmag/42).
 
 ## Latest work
 
@@ -169,10 +172,6 @@ This section is updated automatically from my public GitHub repositories.
 <!-- REPOS:END -->
 
 ## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbonmag&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%">
-</p>
 
 <p align="center">
   <picture>
